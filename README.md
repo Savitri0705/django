@@ -1,1 +1,1 @@
-This is an Basic Adding Student List Project In Which CRUD Operation is used.
+This is a Basic  Student List Project. In Which CRUD Operation is used.
